@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naky144
+- 👋 Hi, I’m @nullPaw
 - 👀 I’m interested in information science and library informatics
 - 💞️ I’m looking to collaborate on library tools and more
 
